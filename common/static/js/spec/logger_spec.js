@@ -17,7 +17,7 @@
                     data: {
                         event_type: 'example',
                         event: '"data"',
-                        courserun_key: 'edx/999/test',
+                        courserun_key: 'edX/999/test',
                         page: window.location.href
                     },
                     async: true
@@ -33,7 +33,7 @@
                     data: {
                         event_type: 'example',
                         event: '"data"',
-                        courserun_key: 'edx/999/test',
+                        courserun_key: 'edX/999/test',
                         page: window.location.href
                     },
                     async: false
@@ -68,7 +68,7 @@
                     data: {
                         event_type: 'example',
                         event: '"data"',
-                        courserun_key: 'edx/999/test',
+                        courserun_key: 'edX/999/test',
                         page: window.location.href
                     },
                     async: true
@@ -86,7 +86,7 @@
                     data: {
                         event_type: 'example',
                         event: '"data"',
-                        courserun_key: 'edx/999/test',
+                        courserun_key: 'edX/999/test',
                         page: window.location.href
                     },
                     async: true
@@ -104,7 +104,7 @@
                     data: {
                         event_type: 'example',
                         event: '"data"',
-                        courserun_key: 'edx/999/test',
+                        courserun_key: 'edX/999/test',
                         page: window.location.href
                     },
                     async: true
@@ -188,7 +188,6 @@
                     data: {
                         event_type: 'page_close',
                         event: '',
-                        courserun_key: 'edx/999/test',
                         page: window.location.href
                     },
                     async: false
